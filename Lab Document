@@ -1,0 +1,23 @@
+Welcome to the Compiler Design Lab!
+
+This series is structured to provide Computer Science and Engineering (CSE) students with a practical, hands-on understanding of how compilers work. Our primary tool for implementation will be the C programming language.
+
+Bridging Theory and Practice
+Compilers are essential for translating the high-level code you write into the low-level instructions a machine can execute. While theoretical courses cover the abstract models and algorithms, this lab focuses on implementation. We aim to bridge the gap between the theoretical concepts (like formal languages, finite automata, and context-free grammars) and the real-world steps involved in building a compiler.
+
+What You Will Learn
+By actively coding the core components of a compiler, you will gain a clear and concrete view of the translation process:
+
+Lexical Analysis (Scanning): Converting a stream of characters into meaningful tokens.
+
+Syntax Analysis (Parsing): Verifying the structure of the code against grammar rules and building a parse tree or Abstract Syntax Tree (AST).
+
+Semantic Analysis: Checking for meaning and type compatibility.
+
+Intermediate Code Generation: Creating machine-independent code.
+
+Code Optimization: Improving the generated code for efficiency.
+
+Target Code Generation: Producing the final assembly or machine code.
+
+This hands-on coding experience in C will solidify your understanding of how source code is effectively translated, optimized, and ultimately executed. Get ready to turn theory into working code!
